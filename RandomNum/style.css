@@ -1,0 +1,11 @@
+.conContainer{
+    text-align: center;
+}
+#myBtn{
+    padding: 5px 10px;
+    border-radius: 10px;
+    
+}
+#myLbl{
+    font-size: 132px;
+}

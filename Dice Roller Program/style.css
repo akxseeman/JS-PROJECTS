@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+input{
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    height: 18px;
+    padding: 5px;
+}
+button{
+    width: 100px;
+    background-color: aqua;
+    padding: 5px 5px;
+    color: cornsilk;
+}
+#resultImage{
+    margin: 25px;
+}
+#resultImage img{
+    
+    width: 100px;
+    margin: 5px;
+}
+#resultcontent{
+    margin: 15px;
+}
